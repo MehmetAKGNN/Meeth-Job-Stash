@@ -1,5 +1,5 @@
-# Meeth-QBCore-Job-Stash
- Meeth-QBCore-Job-Stash
+# Meeth-Job-Stash
+ Meeth-Job-Stash
 
  First you should create a new job on "qbcore -> shared -> jobs.lua" or currently you have a job.
 
